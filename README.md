@@ -16,9 +16,14 @@
 <!--
 **IlseSalinasV/IlseSalinasV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a mechatronics engineer with a strong inclination towards data science and statistical analysis. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Mechatronics Engineer and Data Scientist with solid experience in automation and control systems. My passion for robotics :robot:, particularly in artificial intelligence and computer vision :computer:, has driven me to delve deeply into data science and machine learning. I am committed to applying my knowledge in data analysis and machine learning models to create efficient and automated solutions that enhance products and services. I am proficient in programming languages and tools such as Python, SQL, ROS, as well as design software like AutoCAD and SolidWorks. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* I am currently studying data science at the TripleTen bootcamp :blue_book: where I have been able to put into practice my skills in Python, SQL, and machine learning models :computer: to solve various projects. I invite you to review them and evaluate the skills I have acquired. :heartbeat:
+My soft skills include strong analytical abilities, which enable me to break down complex problems and propose effective solutions :bulb:. I possess effective communication skills that help me collaborate with multidisciplinary teams and ensure that everyone is aligned with our objectives :checkered_flag:. I enjoy teamwork and value the exchange of ideas, which enhances creativity in prototype design and coding. Additionally, I adapt quickly to new technologies and methodologies, staying updated with trends in mechatronics and data science to ensure the success of my projects :blue_book:. 
+
+If you wish to contact me, I am sharing my contact information:
+salinas.vazquez.in@gmail.com :email:
++52 5583357333 :iphone:
+
 
 
 ### :hammer_and_wrench: Languages & tools :
