@@ -12,19 +12,33 @@
 
 <div id="header" align="left">
 
-### :woman_technologist: About me :
+
 <!--
 **IlseSalinasV/IlseSalinasV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## 🚀 About Me
+I am a **Mechatronics Engineer** and **Data Scientist** with solid experience in automation and control systems. My passion for **robotics** 🤖, particularly in **artificial intelligence** and **computer vision** 💻, has driven me to delve deeply into data science and machine learning.
 
-I am a Mechatronics Engineer and Data Scientist with solid experience in automation and control systems. My passion for robotics :robot:, particularly in artificial intelligence and computer vision :computer:, has driven me to delve deeply into data science and machine learning. I am committed to applying my knowledge in data analysis and machine learning models to create efficient and automated solutions that enhance products and services. I am proficient in programming languages and tools such as Python, SQL, ROS, as well as design software like AutoCAD and SolidWorks. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am committed to applying my knowledge in **data analysis** and **machine learning models** to create efficient and automated solutions that enhance products and services.
 
-My soft skills include strong analytical abilities, which enable me to break down complex problems and propose effective solutions :bulb:. I possess effective communication skills that help me collaborate with multidisciplinary teams and ensure that everyone is aligned with our objectives :checkered_flag:. I enjoy teamwork and value the exchange of ideas, which enhances creativity in prototype design and coding. Additionally, I adapt quickly to new technologies and methodologies, staying updated with trends in mechatronics and data science to ensure the success of my projects :blue_book:. 
+## 🛠 Skills and Tools
+- **Languages**: Python, SQL, C
+- **Machine Learning & Data Science**: Pandas, NumPy, Scikit-learn, TensorFlow
+- **Robotics & Automation**: ROS, AutoCAD, SolidWorks
+- **Data Visualization**: Matplotlib, Seaborn, Power BI
+
+## 💡 Soft Skills
+- Strong analytical abilities to solve complex problems.
+- Effective communicator 🗣️ for cross-functional team collaboration.
+- Adaptable to new technologies 📘 and fast learner.
+
+## 🌱 Currently Learning
+- **Advanced AI models** with BERT and Transformer-based architectures
+- **Deep Learning frameworks**: PyTorch
+- **Neural Networks** and **Computer Vision**
 
 If you wish to contact me, I am sharing my contact information:
-salinas.vazquez.in@gmail.com :email:
-+52 5583357333 :iphone:
-
-
+salinas.vazquez.in@gmail.com
++52 5583357333
 
 ### :hammer_and_wrench: Languages & tools :
 <div id="header" align="left">
